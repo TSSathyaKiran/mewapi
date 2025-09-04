@@ -1,7 +1,4 @@
-# MewAPI — Pokémon REST API
-
-MewAPI is a Django REST Framework–based Pokédex API.  
-It allows you to search, filter, and sort detailed Pokémon data for use in applications, games, or research projects.
+# MewAPI — Pokemon REST API
 
 ---
 
@@ -41,11 +38,6 @@ It allows you to search, filter, and sort detailed Pokémon data for use in appl
 ```bash
 git clone https://github.com/TSSathyaKiran/mewapi.git
 cd mewapi
-```
-
-### Install Requirements
-```bash
-pip install -r requirements.txt
 ```
 
 ### Run the Development Server
