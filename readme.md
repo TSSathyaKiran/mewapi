@@ -1,6 +1,14 @@
 # MewAPI — Pokemon REST API
 
 ---
+datasets: 
+
+https://deepwiki.com/yf-dev/pokemantle/6.1-pokemon-dataset
+
+https://github.com/yf-dev/pokemantle/blob/d417e5c2f93136e47acc23f7ee73f56dcdb69471/data/pokedex.csv
+
+
+---
 
 ## Features
 
