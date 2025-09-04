@@ -1,0 +1,7 @@
+pokedex.csv
+
+impstuff.txt
+
+*.pyc
+__pycache__/
+db.sqlite3
