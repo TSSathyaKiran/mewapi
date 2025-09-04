@@ -29,7 +29,7 @@ class Pokemon(models.Model):
 
     # Abilities
     abilities_number = models.IntegerField()
-    ability_1 = models.CharField(max_length=100)
+    ability_1 = models.CharField(max_length=100, null=True, blank=True)
     ability_2 = models.CharField(max_length=100, null=True, blank=True)
     ability_hidden = models.CharField(max_length=100, null=True, blank=True)
 

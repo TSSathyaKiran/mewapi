@@ -8,3 +8,4 @@ class PokemonViewSet(viewsets.ModelViewSet):
     filter_backends = [filters.SearchFilter, filters.OrderingFilter]
     search_fields = ["name", "type_1", "type_2", "species", "status", "generation"]
     ordering_fields = ["pokedex_number", "name", "total_points", "hp", "attack", "defense", "speed"]
+
